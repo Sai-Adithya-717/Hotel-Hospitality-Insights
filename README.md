@@ -1,6 +1,6 @@
 # Hotel-Hospitality-Insights
 
-This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
+The Data file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
 2. dim_hotels
 3. dim_rooms
