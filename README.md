@@ -1,11 +1,11 @@
 ### Hotel-Hospitality-Insights
 
 The Data file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
-1. [dim_date](https://github.com/WideCarSupporter/Hotel-Hospitality-Insights/blob/main/Data/dim_date.csv)
-2. [dim_hotels](https://github.com/WideCarSupporter/Hotel-Hospitality-Insights/blob/main/Data/dim_hotels.csv)
-3. [dim_rooms](https://github.com/WideCarSupporter/Hotel-Hospitality-Insights/blob/main/Data/dim_rooms.csv)
-4. [fact_aggregated_bookings](https://github.com/WideCarSupporter/Hotel-Hospitality-Insights/blob/main/Data/fact_aggregated_bookings.csv)
-5. [fact_bookings](https://github.com/WideCarSupporter/Hotel-Hospitality-Insights/blob/main/Data/fact_bookings.csv)
+1. [dim_date](https://github.com/Sai-Adithya-717/Hotel-Hospitality-Insights/blob/main/Data/dim_date.csv)
+2. [dim_hotels](https://github.com/Sai-Adithya-717/Hotel-Hospitality-Insights/blob/main/Data/dim_hotels.csv)
+3. [dim_rooms](https://github.com/Sai-Adithya-717/Hotel-Hospitality-Insights/blob/main/Data/dim_rooms.csv)
+4. [fact_aggregated_bookings](https://github.com/Sai-Adithya-717/Hotel-Hospitality-Insights/blob/main/Data/fact_aggregated_bookings.csv)
+5. [fact_bookings](https://github.com/Sai-Adithya-717/Hotel-Hospitality-Insights/blob/main/Data/fact_bookings.csv)
 
 
 Column Description for dim_date:
